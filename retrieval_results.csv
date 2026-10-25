@@ -1,0 +1,6 @@
+query,Precision@5,Recall@5,Reciprocal Rank,Search Time (seconds),Retrieved Sources
+What is machine learning?,0.0,0.0,0.0,0.004579400178045034,Mastering Supervised Learning Placement-Focused Machine Learning Guide (1).pdf | ML study material (1).pdf | Mastering Supervised Learning Placement-Focused Machine Learning Guide (1).pdf | Unsupervised Learning (2).pdf | ML study material (1).pdf
+Explain neural networks,0.0,0.0,0.0,0.002169499872252345,Deep_Learning-study_material.pdf | Deep_Learning-study_material.pdf | computerr_visionn.pdf | Deep_Learning-study_material.pdf | Deep_Learning-study_material.pdf
+What is unsupervised learning?,0.6,3.0,1.0,0.0016626999713480473,Unsupervised Learning (2).pdf | Unsupervised Learning (2).pdf | Mastering Supervised Learning Placement-Focused Machine Learning Guide (1).pdf | Unsupervised Learning (2).pdf | computerr_visionn.pdf
+What is deep learning?,0.0,0.0,0.0,0.00225309981033206,Deep_Learning-study_material.pdf | Deep_Learning-study_material.pdf | Deep_Learning-study_material.pdf | Deep_Learning-study_material.pdf | Deep_Learning-study_material.pdf
+Explain supervised learning,0.0,0.0,0.0,0.0015596000012010336,Mastering Supervised Learning Placement-Focused Machine Learning Guide (1).pdf | ML study material (1).pdf | computerr_visionn.pdf | Unsupervised Learning (2).pdf | ML study material (1).pdf

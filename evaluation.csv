@@ -1,0 +1,6 @@
+query,relevant_source,,reference_summary
+"What is machine learning?","The ML Companion.pdf", "Enabling machine to learn, analysis data without explicitly programming"
+"Explain neural networks","Deep_learning-study_material.pdf", "Created with inspiration of human nerve system and it is a deep learning model"
+"What is unsupervised learning?","Unsupervised Learning (2).pdf","Model learn the patterns from the dataset without labels"
+"What is deep learning?","Deep_learning-study_material.pdf","Using deep neural networks and it is used to analyse complex dataset"
+"Explain supervised learning","Mastering Supervised Learning Placement-Focused Machine Learning Guide (1)","Model learn pattern, relationship between the data with labeled data"
